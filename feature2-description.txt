@@ -1,4 +1,0 @@
-This is the feature description.
-
-v2.1 changes
-v2.2 [FINAL] changes
